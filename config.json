@@ -1,0 +1,14 @@
+{
+    "entry": "scripts/server.lua",
+    "package": {
+        "path": [
+           
+        ],
+        "cpath": [
+
+        ]
+    },
+    "command": [
+        
+    ]
+}
