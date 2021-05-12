@@ -20,6 +20,12 @@
 
 欢迎查看 [EtherEngine](https://github.com/VoidmatrixHeathcliff/EtherEngine) 的 [Network 文档](https://github.com/VoidmatrixHeathcliff/EtherEngine/blob/main/docs/Network/index.md)
 
-### `如果你感觉有用…`
+### `如果你感觉有用！`
 
 还不快来 [EtherEngine](https://github.com/VoidmatrixHeathcliff/EtherEngine) 赏作者一颗⭐！
+
+### `关于图片…`
+
+作者会不断更新图库，欢迎 watch 一下，这样你就可以随时收到更新推送啦~   
+图片资源大多来自 [Pixiv](www.pixiv.net)，本项目仅做转载，版权归原作者所有   
+当然，也欢迎任何你一起来更新图库或提交代码！
