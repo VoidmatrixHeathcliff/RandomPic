@@ -18,7 +18,7 @@
 
 ### `不知道如何修改？`
 
-欢迎查看 [EtherEngine](https://github.com/VoidmatrixHeathcliff/EtherEngine) 的 [Network 文档](https://github.com/VoidmatrixHeathcliff/EtherEngine/blob/main/docs/Network/index.md)
+欢迎查看 [EtherEngine](https://github.com/VoidmatrixHeathcliff/EtherEngine) 的 [Network 文档](https://github.com/VoidmatrixHeathcliff/EtherEngine/blob/main/docs/Network/README.md)
 
 ### `如果你感觉有用！`
 
